@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=hostel_booking
+POSTGRES_USER=PEHsLIefdGWlIpKoycEdDfJkpKMoNoZF
+POSTGRES_PASSWORD=DHmlCnacuERdX1P90iq78iRTqqPtJPF7UHP4ffdavETNFN2SM22OdLnSBYSr0KGv
